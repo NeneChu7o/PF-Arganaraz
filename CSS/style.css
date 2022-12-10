@@ -83,5 +83,8 @@
   width: 500px;
 }
 
+.bodyColor {
+  background: linear-gradient(180deg, #5ee7df, #000000);
+}
 
 /*# sourceMappingURL=style.css.map */
