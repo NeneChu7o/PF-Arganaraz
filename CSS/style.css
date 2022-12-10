@@ -68,8 +68,8 @@
   width: 100px;
 }
 
-.body {
-  background-color: black;
+.bodyPagina {
+  background: linear-gradient(180deg, #5ee7df, #b490ca);
 }
 
 .header {
@@ -77,6 +77,10 @@
   margin-left: 0%;
   margin-right: 0%;
   margin-bottom: 0%;
+}
+
+.footerColor {
+
 }
 
 /*# sourceMappingURL=style.css.map */
